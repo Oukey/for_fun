@@ -3,3 +3,5 @@
 .idea
 *.sqlite3
 /conf/
+/for_fun/static/
+/for_fun/media/
